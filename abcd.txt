@@ -3,4 +3,6 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
-fvre
+fvr
+it is a choice of all riders
+e
